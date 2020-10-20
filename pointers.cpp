@@ -13,5 +13,6 @@ for(int i=0;i<=n;n++){
 ptr=arr[i];
 cout<<&ptr<<endl;
 }
+  
 return 0;
 }
